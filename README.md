@@ -5,7 +5,7 @@ Data Types:
 1.Nominal,
 2.Ordinal
 
-2) Numerical
+2) Numerical:-
 1.Discrete,
 2.Continuous
 
