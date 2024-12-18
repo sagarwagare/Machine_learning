@@ -8,3 +8,6 @@ Data Types:
 2) Numerical
 1.Discrete,
 2.Continuous
+
+# Sample Dataset Created to explain datatypes (code given for understanding)
+Different ways to handle Categorical and Numerical  data (with codes)
